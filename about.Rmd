@@ -1,0 +1,56 @@
+---
+title: "Virginia Robano"
+image: "9.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/virginia-robano-"
+  - label: Twitter
+    url: "https://twitter.com/vrobano"
+  - label: GitHub
+    url: "https://github.com/vrobano"
+  - label: Email
+    url: "mailto:virobano@ceibal.edu.uy"
+output:
+  postcards::jolla
+---
+ 
+## Bio
+
+My specialisation is on the design and implementation of labour market and economic development policies.
+
+I am passionate about female empowerment, spurring dynamic and innovative entrepreneurship, and democratising access to knowledge. My purpose is to level the playing field and generate equality of opportunities.
+
+Since 2020 I am a Women in Data Science Ambassador for the Women in Data Science Conference, organised by the University of Stanford. Link to website here
+
+In 2013 I won the first prize on a global competition organised by the Global Development Network (GDN) which had over 700+ submissions. My research paper "The Part-time Premium Enigma: an Assessment of the Chilean Case" won the Medal on Research and Development / Social Protection. The award was received in Manila, Philippines.
+
+I have ample international experience, having worked and lived in the United States (worked at the World Bank and Inter-American Development Bank), France (OECD and Sciences Po), Argentina (Universidad Torcuato di Tella, World Bank regional office) and Uruguay (Central Bank of Uruguay, Plan Ceibal). My current location is London, UK.
+
+## Education
+
+**PhD in Economics** | 2012 | The George Washington University, Washington DC, USA
+
+**MA in Economics** | 2004 | University of Maryland at College Park, MD, USA
+
+**Licenciada en Economía** | 2000 | Universidad de la República, Montevideo, Uruguay
+
+## Languages
+
+ **English**
+
+ **French**
+
+ **Spanish**
+
+## Fields of Specialisation
+
+Data Science 
+
+Impact Evaluation
+
+Entrepreneurship Finance and Regulation
+
+Responsible Innovation; Policy design, implementation and analysis
+
+Intergenerational mobility
+
